@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "position": "Frontend developer",
+        "location": "Prague",
+        "seniority": "medior",
+        "salary": 120000,
+        "discription": "Three years of experience as a developer with over two years of experience as a JavaScript Engineer building UI applications in React or similar frameworks.",
+        "createdAt": "12.02.2024"
+    },
+    {
+        "id": 2,
+        "position": "Python developer",
+        "location": "Brno",
+        "seniority": "junior",
+        "salary": 55000,
+        "discription": "One year of experience as a developer.",
+        "createdAt": "12.11.2023"
+    },
+    {
+        "id": 3,
+        "position": "Backend developer",
+        "location": "Prague",
+        "seniority": "senior",
+        "salary": 120000,
+        "discription": "Five years of experience as a developer with over two years of experience as a Ruby Engineer building UI applications in React or similar frameworks.",
+        "createdAt": "12.02.2024"
+    },
+    {
+        "id": 4,
+        "position": "UX designer",
+        "location": "Brno",
+        "seniority": "medior",
+        "salary": 55000,
+        "discription": "Three years of experience as a developer.",
+        "createdAt": "03.12.2023"  
+    },
+    {
+        "id": 5,
+        "position": "Full stack developer",
+        "location": "Brno",
+        "seniority": "junior",
+        "salary": 43000,
+        "discription": "One year of experience as a developer.",
+        "createdAt": "22.11.2023"
+    }
+
+]
