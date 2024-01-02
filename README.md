@@ -10,7 +10,7 @@ This project simulates fatching jobs which data correspond to data submitted by 
 
 ## Built With
 
-* [![React][React.js]][React-url]
+* [React.js](https://react.dev/)
 * [ChakraUi](https://chakra-ui.com/)
 * [Formik](https://formik.org/)
 * [Yup](https://github.com/jquense/yup)
